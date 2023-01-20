@@ -458,7 +458,7 @@
   .channel-list__header {
     padding-left: 16px;
     height: 62px;
-    box-shadow: 1px -3px 10px 2px;
+    box-shadow: -15px -2px 10px 2px;
   }
   
   .channel-list__header__text {
