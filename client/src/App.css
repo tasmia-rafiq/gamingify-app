@@ -1030,6 +1030,12 @@
     justify-content: space-between;
     align-items: center;
   }
+
+  .team-channel-list__header p {
+    color: #fff;
+    padding-left: 7px;
+    padding-right: 7px;
+  }
   
   .team-channel-list__header svg {
     cursor: pointer;
