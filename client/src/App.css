@@ -1892,7 +1892,7 @@
 
   @media (max-width: 540px) {
     .channel-list__container-toggle {
-      right: -4%;
+      right: -5.5%;
     }
     .channel-list__container-responsive {
       width: 90.5% !important;
@@ -1906,7 +1906,7 @@
     position: absolute;
     width: 90%;
     top: 0%;
-    z-index: 5;
+    z-index: 150;
     transition: 0.8s ease;
   }
   
