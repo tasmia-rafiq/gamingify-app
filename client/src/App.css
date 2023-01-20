@@ -1029,12 +1029,14 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    border-bottom: 1px solid #662967;
   }
 
   .team-channel-list p {
-    color: #fff;
+    color: #eec7ff;
     padding-left: 7px;
     padding-right: 7px;
+    font-size: 14px;
   }
   
   .team-channel-list__header svg {
